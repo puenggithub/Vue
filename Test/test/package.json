@@ -12,9 +12,12 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.27",
+    "element-ui": "^2.11.1",
     "jquery": "^3.4.1",
+    "url-loader": "^2.1.0",
     "vue": "^2.6.10",
     "vue-draggable": "^2.0.2",
+    "vue-dynamic-form-component": "^1.1.1",
     "vuetify": "^2.0.2"
   },
   "browserslist": [
@@ -25,6 +28,7 @@
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
+    "babel-plugin-component": "^1.1.1",
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-3": "^6.24.1",
     "cross-env": "^5.0.5",

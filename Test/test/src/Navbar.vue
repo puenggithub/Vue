@@ -23,7 +23,7 @@ import addCard from './tab/AddCard'
 
 
 export default {
-  name: 'form',
+  name: 'tab',
   components: {
     active,
     schedule,

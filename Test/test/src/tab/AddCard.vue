@@ -7,12 +7,18 @@
     </b-form-select>
 
     <div class="mt-2">Selected: <strong>{{ selected }}</strong></div>
-    
+    <banner />
   </div>
 </template>
 
 <script>
+  import banner from './form/banner'
+
   export default {
+    name: 'form',
+    components: {
+    banner
+  }, 
     data() {
       return {
         selected: null
