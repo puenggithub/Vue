@@ -18,7 +18,7 @@
     "vue": "^2.6.10",
     "vue-draggable": "^2.0.2",
     "vue-dynamic-form-component": "^1.1.1",
-    "vuetify": "^2.0.2"
+    "vuetify": "^2.6.10"
   },
   "browserslist": [
     "> 1%",
